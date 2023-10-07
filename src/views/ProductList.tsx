@@ -16,7 +16,7 @@ const ProductList = () => {
     <h1 className="text-black font-bold text-4xl mt-2">Check What We Have</h1>
     </div>
     
-    <div className="flex  flex-wrap justify-evenly mt-16 py-10">
+    <div className="flex  flex-wrap justify-evenly mt-16 py-9">
       {productschecks.map((product) => (
         <ProductCard
           key={product.id}
