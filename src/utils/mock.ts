@@ -1,7 +1,7 @@
 import { Product } from "./types";
 import P1 from "/public/P1.webp";
 import P2 from "/public/P2.png";
-import P3 from "/public/hero-img.webp";
+import P3 from "/public/P3.png";
 
 export const Products: Product[] = [
   {
