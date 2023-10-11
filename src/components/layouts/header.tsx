@@ -13,13 +13,13 @@ const header = () => {
 
       <ul className="flex gap-x-3">
         <li className="text-lg">
-          <Link href={"/females"}>Females</Link>
+          <Link href={"/category/females"}>Females</Link>
         </li>
         <li className="text-lg">
-          <Link href={"/males"}>Males</Link>
+          <Link href={"/category/males"}>Males</Link>
         </li>
         <li className="text-lg">
-          <Link href={"/kids"}>kids</Link>
+          <Link href={"/category/kids"}>kids</Link>
         </li>
         <li className="text-lg">
           <Link href={"/all-products"}>All Products</Link>
